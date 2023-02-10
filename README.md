@@ -26,7 +26,7 @@ Test case 2: SQL
 
 You are given a table in postgres which is a list of employees with their salaries and departments. You need to write a query that will select the person with the maximum salary from each department (or several if the amounts are the same).
 
-You can use dump of table employee.sql as a test data, sample schema:
+You can use dump of table [employee.sql](employee.sql) as a test data, sample schema:
 
 ```
 postgres=# \d employee
