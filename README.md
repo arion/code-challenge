@@ -14,6 +14,7 @@ We created 2 fake test shops for you.
 1. The script must accept part of the product name (e.g. `curl`) as input.
 2. At the output it returns the full name of the product, its price and the store name.
 3. Implement "XML" and "JSON" integration, and improve business logic to find the best deal amongst two shops.
+4. Auto tests welcome
 
 
 #### Things to watch out for:
