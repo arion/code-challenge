@@ -1,7 +1,7 @@
 Test case 1: Cats Dealer
 ==================
 
-You are going to create a simple service that allows finding the best cat with the best price for customer location.
+You are going to create a simple service that allows finding the best cat with the best price for customer.
 
 There are cat shops that have pricelists accessible via REST API. What your service will do is just get prices from each shop, compare them and suggest the best deal for a customer!
 
